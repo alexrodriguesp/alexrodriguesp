@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
+  <img heigth="100" width="250" =src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
 </div>
 
 Oi, eu sou Alex Rodrigues
