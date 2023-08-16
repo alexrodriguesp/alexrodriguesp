@@ -2,7 +2,9 @@
   <img heigth="150" width="350" src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
 </div>
 
-Oi, eu sou Alex Rodrigues
+<div>
+  Oi, eu sou Alex Rodrigues
+</div>
 
 <hr>
 <div>
@@ -14,8 +16,6 @@ Oi, eu sou Alex Rodrigues
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
-  
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
 </div>
 
