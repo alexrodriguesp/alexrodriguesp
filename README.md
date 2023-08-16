@@ -3,10 +3,11 @@
 </div>
 
 <div align="center">
-  <img heigth="150" width="350" src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
+  <h2>
+    <img heigth="150" width="350" src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
+  </h2>
 </div>
 
-<hr>
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
