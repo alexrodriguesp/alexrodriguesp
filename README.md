@@ -1,9 +1,9 @@
-<div align="center">
-  <img heigth="150" width="350" src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
+<div>
+  <h2>Oi, eu sou Alex 👊 </h2>
 </div>
 
-<div>
-  Oi, eu sou Alex Rodrigues
+<div align="center">
+  <img heigth="150" width="350" src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
 </div>
 
 <hr>
