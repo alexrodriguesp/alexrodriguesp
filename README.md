@@ -4,7 +4,7 @@
 
 Oi, eu sou Alex Rodrigues
 
-<hr border-top: 1px>
+<hr size="1">
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
