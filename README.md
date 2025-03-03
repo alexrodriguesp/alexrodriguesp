@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>
-    <img heigth="150" width="350" src="https://github.com/alexrodriguesp/alexrodriguesp/assets/23188818/b7a3fd00-1f69-496e-9073-6efd919edfff">
+    <img heigth="150" width="350" src="https://github.com/alexrodriguesp/alexrodriguesp/blob/6f797413b0e89fcc1442909d929f2dda7751dd73/saudacoes.gif">
     
   </h2>
 </div>
